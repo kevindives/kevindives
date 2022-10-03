@@ -9,6 +9,10 @@ en el cual me especializo en hacer aplicaciones móviles: tengo experiencia desa
 también tengo experiencia trabajando con bases de datos  (firebase y ROOM),
 retrofit,Picasso, MVVM  clean code , principios SOLID y subiendo aplicaciones a Google play .
 
+##Skills:
+:[Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=appveyor)</br>
+
+
 - [cerificados](https://drive.google.com/drive/folders/1EnCYJ1b9pz0d-fK4dvw50n00Eamcv4TD?usp=sharing)
 - [Linkedin](https://www.linkedin.com/in/kevin-darley-tejada-ardila-57b19a227/)
 - [instagram](https://www.instagram.com/darleykevin/)
