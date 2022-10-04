@@ -4,9 +4,9 @@
 **kevindives/kevindives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## About me
 
-### Hola soy una persona apasionada por la tecnologia y por el desarrollo de aplicaciones nativas con kotlin
-### también tengo experiencia trabajando con bases de datos  (firebase y ROOM),
-### retrofit, Picasso, MVVM, clean code , principios SOLID y subiendo aplicaciones a Google play .
+Hola soy una persona apasionada por la tecnologia y por el desarrollo de aplicaciones nativas con kotlin
+también tengo experiencia trabajando con bases de datos  (firebase y ROOM),
+retrofit, Picasso, MVVM, clean code , principios SOLID y subiendo aplicaciones a Google play .
 
 ## Skills
 
